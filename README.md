@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I'm Giulia Alzuguir
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giualz&show_icons=true&theme=radical&hide=totalissues) -->
 
